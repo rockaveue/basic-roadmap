@@ -2,20 +2,20 @@
 
 ## Table of Contents
 
-1. [Basics of programming language](basics-of-programming-language) (C, C++)
-1. [Basics of algorithm](basics-of-algorithm) (Flowgorithm)
-1. [Object oriented programming](object-oriented-programming) (Java, OOP concepts)
-1. [Data structure and algorithms](data-structure-and-algorithms) (Java)
-1. [Basics of software engineering](basics-of-software-engineering) (Document based)
-1. [Web](web) (HTML, CSS, JS, jQuery)
-1. [Database structure](database) (MySQL, ERD)
-1. [Programming principle](programming-principle)
-1. [Software requirements and analysis](software-requirements-and-analysis) (Document, LaTeX)
-1. [Software design and architectures](software-design-and-architectures) (MVC)
-1. [Software project management](software-project-management) Document)
-1. [Basics of Artificial Intelligence](basics-of-artificial-intelligence) (Python)
-1. [Web system and technology](web-system-and-technology) (PHP, Laravel)
-1. [Software engineering project](software-engineering-project) (Document + System)
+1. [Basics of programming language](#basics-of-programming-language) (C, C++)
+1. [Basics of algorithm](#basics-of-algorithm) (Flowgorithm)
+1. [Object oriented programming](#object-oriented-programming) (Java, OOP concepts)
+1. [Data structure and algorithms](#data-structure-and-algorithms) (Java)
+1. [Basics of software engineering](#basics-of-software-engineering) (Document based)
+1. [Web](#web) (HTML, CSS, JS, jQuery)
+1. [Database structure](#database) (MySQL, ERD)
+1. [Programming principle](p#rogramming-principle)
+1. [Software requirements and analysis](#software-requirements-and-analysis) (Document, LaTeX)
+1. [Software design and architectures](#software-design-and-architectures) (MVC)
+1. [Software project management](#software-project-management) Document)
+1. [Basics of Artificial Intelligence](#basics-of-artificial-intelligence) (Python)
+1. [Web system and technology](#web-system-and-technology) (PHP, Laravel)
+1. [Software engineering project](#software-engineering-project) (Document + System)
 
 ## Basics of programming language
 
